@@ -9,3 +9,5 @@ Each Folder correspond to the appropriate topic name.
 "Another Post" > .NUGG file (when needed).
 
 If you have any questions, send us an e-mail: contato@abapzombie.com
+
+ABAPZombie Team
