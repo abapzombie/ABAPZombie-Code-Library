@@ -1,13 +1,13 @@
 ABAPZombie-Code-Library
 =======================
 
-In this repository we'll keep all examples posted on our website (NUGGs or ABAP text files).
+In this repository we'll keep all examples posted on our website (as .TXT files), and also useful code we receive via pull-requests.
 
-Each Folder correspond to the appropriate topic name. 
+We'll try to keep this library organized by using clear folder descriptions for each example.
 
-"Desvendando o Select Dinâmico" > .txt file with ABAP code.
-"Another Post" > .NUGG file (when needed).
+If you want further information about any code, search for the appropriate post on our website: www.abapzombie.com
 
-If you have any questions, send us an e-mail: contato@abapzombie.com
+Don't hesitate to send new codes, so we can improve this library.
 
-ABAPZombie Team
+Contact us for suggestions: contato@abapzombie.com
+
