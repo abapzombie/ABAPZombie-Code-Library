@@ -1,13 +1,11 @@
+
+:warning: _Most of these examples are 6+ years old and are being kept here for reference purposes (tons of legacy code out there, right?). If you want to tackle any of these problems, you should first try looking for modern APIs on newer ABAP versions ([this](https://help.sap.com/http.svc/rc/abapdocu_752_index_htm/7.52/en-US/index.htm) is a good start)._
+
 ABAPZombie-Code-Library
 =======================
 
-In this repository we'll keep all examples posted on our website (as .TXT files), and also useful code we receive via pull-requests.
+This repository contains all examples from on our website. 
 
-We'll try to keep this library organized by using clear folder descriptions for each example.
-
-If you want further information about any code, search for the appropriate post on our website: www.abapzombie.com
-
-Don't hesitate to send new codes, so we can improve this library.
+If you need further information about any code, search for the appropriate post at www.abapzombie.com
 
 Contact us for suggestions: contato@abapzombie.com
-
